@@ -69,6 +69,7 @@ function daySetup() {
     stand.weather = weathers[Math.floor(Math.random() * weathers.length)];
     console.log(`========== START DAY ${stand.numOfDay} ==========`);
     console.log(`On day ${stand.numOfDay}, the weather is ${stand.weather} and the cost of lemonade is ${stand.costOfLemonade}!`);
+    console.log(`Current cash balance: ${stand.cashBalance} cents`);
 }
 
 function calculateSold() {

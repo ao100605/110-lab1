@@ -1,0 +1,25 @@
+{
+  "name": "110-lab0",
+  "version": "1.0.0",
+  "description": "Lab 0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ao100605/110-lab0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ao100605/110-lab0/issues"
+  },
+  "homepage": "https://github.com/ao100605/110-lab0#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.3",
+    "typescript": "^7.0.2"
+  }
+}

@@ -1,0 +1,6 @@
+As a <stakeholder>, I want <something> so that <need>.
+
+Lemonade Stand user stories:
+- As a player, I want clear prompted questions so that I am clear on what number to enter.
+- As a player, I want my current asset and cost of lemonade to be shown before the questions so that I can make more suitable decisions.
+- As a player, I want to see the financial report after each day so that I know the result of my choices.
